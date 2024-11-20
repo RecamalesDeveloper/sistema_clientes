@@ -5,7 +5,7 @@ Este proyecto es un sistema básico de gestión de clientes desarrollado en Pyth
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/Remolino87/sistema_clientes.git
+git clone https://github.com/RecamalesDeveloper/sistema_clientes.git
 cd sistema_clientes
 python sistema_clientes.py
 ## Uso
